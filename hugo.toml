@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'ko-kr'
+title = 'SKKUDING'
+theme = 'paper'
+
+[params]
+  color = 'gray'
+  github = 'skkuding'
