@@ -3,15 +3,20 @@ languageCode = 'ko-kr'
 title = 'SKKUDING'
 
 [module]
-  [[module.imports]]
-    path = "github.com/nanxiaobei/hugo-paper"
+[[module.imports]]
+path = "github.com/nanxiaobei/hugo-paper"
 
 [params]
-  color = 'gray'
-  github = 'skkuding'
+color = 'gray'
+github = 'skkuding'
 
 [menu]
-  [[menu.main]]
-    identifier = 'about'
-    name = 'About'
-    url = '/about/'
+[[menu.main]]
+identifier = 'about'
+name = 'About'
+url = '/about/'
+
+[deployment]
+[[deployment.targets]]
+name = 'AWS S3'
+URL = 's3://skkuding-dev?region=ap-northeast-2'
