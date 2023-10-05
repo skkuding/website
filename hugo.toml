@@ -18,4 +18,4 @@ url = '/about/'
 [deployment]
 [[deployment.targets]]
 name = 'AWS S3'
-URL = 's3://skkuding-dev?region=ap-northeast-2'
+URL = 's3://skkuding.dev?region=ap-northeast-2'
