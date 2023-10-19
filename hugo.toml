@@ -1,6 +1,6 @@
 baseURL = "https://skkuding.dev"
 languageCode = 'ko-kr'
-title = 'SKKUDING'
+title = 'SKKUDING 스꾸딩'
 
 [module]
 [[module.imports]]
@@ -9,6 +9,9 @@ path = "github.com/nanxiaobei/hugo-paper"
 [params]
 color = 'gray'
 github = 'skkuding'
+description = '성균관대학교 코드당 개발팀 스꾸딩'
+images = ['open-graph.png']
+title = 'SKKUDING 스꾸딩'
 
 [menu]
 [[menu.main]]
