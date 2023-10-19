@@ -15,6 +15,10 @@ github = 'skkuding'
 identifier = 'about'
 name = 'About'
 url = '/about/'
+[[menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "https://skkuding.dev/contact"
 
 [deployment]
 [[deployment.targets]]
