@@ -1,0 +1,26 @@
+<!-- Original: https://github.com/mr-islam/hugo-callout -->
+<style>
+  .callout {
+    background: hsl(0, 0%, 94%);
+    padding: 1.5em 1.25em;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+  }
+  .callout-inner {
+    margin-left: 1em;
+  }
+  @media (max-width: 767px) {
+    .callout {
+      padding: 1.5em 0.75em 1.5em 0.6em;
+    }
+    .callout-inner {
+      margin-left: 0.5em;
+    }
+  }
+</style>
+<div class="callout">
+  <div>{{ .Get "emoji" }}</div>
+  <div class="callout-inner">{{ .Get "text" | safeHTML }}</div>
+</div>
