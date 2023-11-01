@@ -1,0 +1,2 @@
+tasks:
+  - init: brew install hugo
