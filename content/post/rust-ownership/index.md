@@ -1,8 +1,8 @@
 +++
 author = "최재민"
 title = "Rust를 쓰는 이유: Ownership"
-date = "2023-11-07"
-description = "Rust의 강점인 Ownership 개념을 이해합니다."
+date = "2023-11-08"
+description = "기존 언어들의 문제를 Rust의 Ownership이 어떻게 해결하는지 알아봐요."
 tags = ["backend", "sandbox", "security"]
 +++
 
