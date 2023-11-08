@@ -2,7 +2,7 @@
 <style>
   .callout {
     background: hsl(0, 0%, 94%);
-    padding: 1.5em 1.25em;
+    padding: 1em 1.25em;
     border-radius: 8px;
     display: flex;
     flex-direction: row;
@@ -11,7 +11,11 @@
   .dark .callout {
     background: hsl(0, 0%, 20%);
   }
+  .callout-emoji {
+    font-size: 1.5em;
+  }
   .callout-inner {
+    padding: 0.5em 0;
     margin-left: 1em;
   }
   @media (max-width: 767px) {
@@ -24,6 +28,6 @@
   }
 </style>
 <div class="callout">
-  <div>{{ .Get "emoji" }}</div>
+  <div class="callout-emoji">{{ .Get "emoji" }}</div>
   <div class="callout-inner">{{ .Get "text" | safeHTML }}</div>
 </div>
