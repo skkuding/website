@@ -9,9 +9,12 @@ path = "github.com/nanxiaobei/hugo-paper"
 [params]
 color = 'gray'
 github = 'skkuding'
-description = '성균관대학교 코드당 개발팀 스꾸딩'
+description = '성균관대학교 코드당 프로젝트 팀 스꾸딩'
 images = ['open-graph.png']
 title = 'SKKUDING 스꾸딩'
+avatar = 'skkuding@gmail.com'
+name = '우리는 스꾸딩이에요! 👋'
+bio = '성균관대학교 코드당 프로젝트 팀'
 
 [menu]
 [[menu.main]]
