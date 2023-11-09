@@ -51,8 +51,7 @@ _(물론 개발자들 사이에서는 "competitive offering"의 범위가 상당
 
 우리가 많이 들어본 MongoDB 역시 2018년 라이선스 변경([AGPL-3.0](#agpl-30affero-gnu-public-license-30) -> [SSPL-1.0](#sspl-10server-side-public-license-v1))이 있었습니다. 먼저 왜 라이선스를 변경했는지부터 알아볼까요?
 
-> The reality, however, is that once an open source project becomes interesting, it is too easy for large cloud vendors to capture all the value but contribute nothing back to the community.
->  https://www.mongodb.com/licensing/server-side-public-license/faq
+> The reality, however, is that once an open source project becomes interesting, it is too easy for large cloud vendors to capture all the value but contribute nothing back to the community. - [MongoDB FAQ](https://www.mongodb.com/licensing/server-side-public-license/faq)
 
 즉, 오픈소스 소프트웨어를 개발하지 않았음에도 클라우드 제공 업체가 이를 서비스해서 수익을 얻고, 오픈소스 소프트웨어를 개발한 커뮤니티에는 기여하지 않는다는 점을 문제로 지적하며 라이선스 변경을 하게 된 것이라고 설명하고 있습니다. 물론, 여기서 말하는 "클라우드 제공 업체"는 AWS를 겨냥한 것이었죠.
 그래서 MongoDB가 SSPL이라는 라이선스를 새로 만들었고, 이 라이선스에는 MongoDB를 서비스하려는 경우 관련된 모든 소스 코드를 공개해야 한다는 조건을 추가로 내걸었습니다. 실질적으로 AWS가 SSPL 라이선스가 적용된 버전의 MongoDB를 사용할 수 없도록 막아버린 것이죠. (2021년 이후 부터 AWS와 MongoDB가 협력하는 것을 보니 친해진 것 같기는 합니다)  
@@ -62,8 +61,7 @@ _(물론 개발자들 사이에서는 "competitive offering"의 범위가 상당
 
 이번에는 2021년 ElasticSearch의 라이선스가 ([Apache v2.0](#apache-20apache-license-v20) -> [SSPL](#sspl-10server-side-public-license-v1) 또는 Elastic License v2.0 ([ELv2](#elv2-elastic-license-v20))) 변경되었습니다. 변경 이유는 MongoDB와 상당히 유사했습니다.
 
-> ... 일부 클라우드 서비스 제공자는 재공헌 없이 오픈 소스 제품을 활용해 이를 서비스로 제공합니다 ...
-> https://www.elastic.co/kr/blog/licensing-change
+> ... 일부 클라우드 서비스 제공자는 재공헌 없이 오픈 소스 제품을 활용해 이를 서비스로 제공합니다 ... - [Elastic Blog](https://www.elastic.co/kr/blog/licensing-change)
 
 ELv2 역시 마찬가지로 AWS가 ElasticSearch를 사용하지 못하도록 라이선스를 변경하였고, 결국 AWS에서는 기존에 서비스하고 있던 Elastic Search를 지속하기 위해 Elastic Search 7.1을 Fork하여 OpenSearch라고 명명하여 서비스를 유지하고 있습니다.
 
