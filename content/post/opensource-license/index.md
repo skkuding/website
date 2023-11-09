@@ -1,7 +1,7 @@
 +++
 author = "김일건"
 title = "오픈소스, 라이선스, 분쟁... 그리고 포크 파티(?)"
-date = "2023-11-08"
+date = "2023-11-09"
 description = "OpenSource와 License, 그리고 이로 인한 기업간의 분쟁에 대해 가볍게 알아볼까요!"
 tags = ["infra"]
 +++
