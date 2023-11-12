@@ -1,5 +1,5 @@
 ---
-title: "OAuth: 안전한 간편 로그인과 계정 간 연동"
+title: "OAuth: 안전한 간편 로그인과 계정 간 연동의 핵심"
 date: 2023-11-12T16:45:20+09:00
 tags: ["backend"]
 Author: "김재현"
