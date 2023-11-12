@@ -1,0 +1,48 @@
+<a href="{{ .Get "url" }}" target="_blank" class="bookmark">
+  <style>
+    .bookmark {
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      margin-bottom: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      text-decoration: none;
+      font-weight: 400;
+      font-size: medium;
+    }
+    .bookmark:hover {
+      background-color: hsl(0, 0%, 96%);
+    }
+    .bookmark-content {
+      padding: 8px 16px;
+    }
+    .bookmark-title {
+      font-weight: 600;
+      font-size: large;
+      margin: 0;
+      padding: 0;
+    }
+    .bookmark-description {
+      margin: 0;
+    }
+    .bookmark-image {
+      width: 240px;
+      height: 120px;
+      margin: 0;
+      object-fit: cover;
+      border-radius: 0 4px 4px 0;
+    }
+    /* .bookmark-image img {
+      max-width: 100px;
+      height: auto;
+    } */
+  </style>
+  <div class="bookmark-content">
+    <p class="bookmark-title">{{ .Get "title" }}</p>
+    <p class="bookmark-description">{{ .Get "description" }}</p>
+  </div>
+  {{ if .Get "image" }}
+  <img src="{{ .Get "image" }}" alt="{{ .Get "title" }}" class="bookmark-image">
+  {{ end }}
+</a>
