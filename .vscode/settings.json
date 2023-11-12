@@ -1,6 +1,9 @@
 {
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[html]": {
+    "editor.formatOnSave": false
+  },
   "[toml]": {
     "editor.defaultFormatter": "tamasfe.even-better-toml"
   }
