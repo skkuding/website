@@ -24,6 +24,8 @@
       padding: 0;
     }
     .bookmark-description {
+      color: #666;
+      font-size: 14px;
       margin: 0;
     }
     .bookmark-image {
@@ -32,6 +34,24 @@
       margin: 0;
       object-fit: cover;
       border-radius: 0 4px 4px 0;
+    }
+    @media (max-width: 440px) {
+      .bookmark {
+        flex-direction: column;
+      }
+      .bookmark-title {
+        font-size: 14px;
+        line-height: 1.5;
+      }
+      .bookmark-description {
+        font-size: 12px;
+        line-height: 1.5;
+      }
+      .bookmark-image {
+        width: 100%;
+        height: auto;
+        border-radius: 4px 4px 0 0;
+      }
     }
     /* .bookmark-image img {
       max-width: 100px;
