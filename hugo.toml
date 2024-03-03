@@ -25,6 +25,10 @@ url = '/about/'
 identifier = "contact"
 name = "Contact"
 url = "https://skkuding.dev/contact"
+[[menu.main]]
+identifier = "apply"
+name = "2024-1 지원"
+url = "https://tally.so/r/nP5ZRx" # TODO: 모집 마감 후 지우기
 
 [deployment]
 [[deployment.targets]]
