@@ -2,9 +2,22 @@
 
 스꾸딩 팀의 소개 페이지와 기술 블로그입니다!
 
-## How to use
+[Hugo](https://gohugo.io/)와 [Paper 테마](https://github.com/nanxiaobei/hugo-paper)를 사용해 만들었어요.
+
+## Prerequisites
 
 - 먼저 [hugo](https://gohugo.io/installation/)를 설치해주세요.
+
+## 작성한 글 보기
+
+- 아래 명령어로 Hugo 서버를 실행할 수 있어요.
+- 정상적으로 실행되면 어느 포트에서 실행중인지 터미널을 통해 출력돼요.
+- Draft를 포함해 보고싶다면 -D 옵션을 추가해주세요.
+
+```bash
+hugo server
+hugo -D server
+```
 
 ## 글 작성하기
 
@@ -61,14 +74,3 @@ tags: ["HUGO"]
 사실 노션에 작성하고 복사 붙여넣기 하면 편해요 😅
 
 </aside>
-
-## 작성한 글 보기
-
-- 아래 명령어로 Hugo 서버를 실행할 수 있어요.
-- 정상적으로 실행되면 어느 포트에서 실행중인지 터미널을 통해 출력돼요.
-- draft를 포함해 보고싶다면 -D 옵션을 추가해주세요.
-
-```markdown
-hugo server
-hugo -D server
-```
