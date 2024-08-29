@@ -124,6 +124,7 @@ SKKUDING(스꾸딩)은 SKKU와 coding을 합친 이름으로, [Codedang(코드�
 - E2E(_End-to-End_) 테스트 시나리오 작성 (Playwright)
 - Web용 Code Editor 기능 추가 (CodeMirror)
 - 반응형 디자인 (모바일 대응), 다크 모드
+- 효과적인 Error Handling 전략 수립 및 적용 
 
 **백엔드**
 
