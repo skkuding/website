@@ -122,26 +122,27 @@ SKKUDING(스꾸딩)은 SKKU와 coding을 합친 이름으로, [Codedang(코드�
 - GraphQL을 활용한 Admin 페이지 개발
 - Sentry를 활용한 에러 모니터링
 - E2E(_End-to-End_) 테스트 시나리오 작성 (Playwright)
-- Web용 Code Editor 기능 추가 (CodeMirror)
-- 반응형 디자인 (모바일 대응), 다크 모드
-- 효과적인 Error Handling 전략 수립 및 적용 
+- Web용 Code Editor 기능 개발 (CodeMirror)
+- 반응형 디자인 (모바일 대응), 다크 모드 도입
+- 효과적인 Error Handling 전략 수립 및 적용
 
 **백엔드**
 
-- 코드 표절 검사 기능 (JPlag)
 - Grafana 모니터링 기반 문제 상황 대응
 - GraphQL을 활용한 Admin API 개발
+- REST API 기반 Client API 개발
 - OpenTelementry를 통한 서버 성능 검증
 - 새로운 Judge Sandbox 개발 (Rust)
-- 코드 실행 기능 (Golang)
+- 코드 채점/실행 기능 개발 (Golang)
 
 **인프라**
 
 - AWS 비용 최적화
 - 데이터베이스(AWS RDS) 백업 및 복구 전략
 - CodeDeploy 기반 배포 환경 재구축
-- On-premise 채점 서버 구축
+- On-premise 스테이지 서버 구축
 - Grafana 모니터링 환경 개선
+- 로드 테스트
 
 ## 이런 혜택을 받을 수 있어요! 😎
 
