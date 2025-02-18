@@ -24,6 +24,7 @@ jobs:
         with:
           hugo-version: "latest"
           extended: true
+          withdeploy: true
 
       - name: Build
         run: hugo --minify
