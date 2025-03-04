@@ -94,22 +94,22 @@ SKKUDING(스꾸딩)은 SKKU와 coding을 합친 이름으로, [Codedang(코드�
 
 ### 스터디 내용
 
-스터디는 스꾸딩의 스터디 Cookbook을 활용해요. 총 8주간 진행하고, Cookbook의 가이드를 따라 팀별로 스터디를 진행해요. 기획/디자인 팀은 학기중 스터디와 프로젝트 참여가 동시에 이루어져요. 중간고사와 기말고사 기간에는 휴식 기간을 가져요.
+스터디는 스꾸딩의 스터디 Cookbook을 활용해요. 총 8주간 진행하고, Cookbook의 가이드를 따라 팀별로 스터디를 진행해요. 중간고사와 기말고사 기간에는 휴식 기간을 가져요.
 
 {{< bookmark title="스꾸딩 Cookbook" description="스꾸딩의 신입 팀원들을 위해 스꾸딩의 개발 레시피를 모아둔 곳입니다!" url="https://study.skkuding.dev/" image="https://skkuding.dev/open-graph.png" >}}
 
 팀별 8주 커리큘럼은 아래와 같아요. (커리큘럼은 매 학기마다 변경될 수 있어요!)
 
-| 주차  | 프론트엔드        | 백엔드     | 인프라                  | 기획 / 디자인  *2025 리뉴얼 중             |
-| ----- | ----------------- | ---------- | ----------------------- | ------------------------------------------- |
-| 1주차 | HTML, CSS         | Network    | Node.js                 | 도메인 이해 및 IA 설계                      |
-| 2주차 | JavaScript        | Node.js    | Express.js              | 와이어프레임 설계                           |
-| 3주차 | TypeScript        | Express.js | Docker                  | 프로젝트 관리 방법론 및 이슈 트래커         |
-| 4주차 | React             | TypeScript | AWS EC2, Network        | 서비스 기획 및 디자인 기초                  |
-| 5주차 | REST API, GraphQL | NestJS (1) | AWS S3, Cloudfront, IAM | [1차 스프린트] 유저 인터뷰 (관리자 측)      |
-| 6주차 | Tailwind CSS      | NestJS (2) | AWS ELB, ECR, ECS       | [1차 스프린트] 화면 구현 및 기능명세서 작성 |
-| 7주차 | React Ecosystem   | Prisma     | Terraform               | [2차 스프린트] 유저 설문조사 (사용자 측)    |
-| 8주차 | Next.js           | GraphQL    | GitHub Actions          | [2차 스프린트] 화면 구현 및 기능명세서 작성 |
+| 주차  | 프론트엔드        | 백엔드     | 인프라                  | 기획             |디자인             |
+| ----- | ----------------- | ---------- | ----------------------- | ------------- | -------------------------- |
+| 1주차 | HTML, CSS         | Network    | Node.js                 | 도메인 및 사용자의 이해 | UX/UI 개념 및 트렌드 |
+| 2주차 | JavaScript        | Node.js    | Express.js              | 웹 개발 프로세스 이해 | Typograhpy, Graphic Design |
+| 3주차 | TypeScript        | Express.js | Docker                  | User Research | Grid, Layout, Color |
+| 4주차 | React             | TypeScript | AWS EC2, Network        | 프로젝트 관리 방법론 | Icon, Components |
+| 5주차 | REST API, GraphQL | NestJS (1) | AWS S3, Cloudfront, IAM | IA, Flow Chart | Wireframe, UT |
+| 6주차 | Tailwind CSS      | NestJS (2) | AWS ELB, ECR, ECS       | Wireframe | Design Guide |
+| 7주차 | React Ecosystem   | Prisma     | Terraform               | 기능 명세서 | UX/UI 포트폴리오 |
+| 8주차 | Next.js           | GraphQL    | GitHub Actions          | QA | [실습] 코드당 예시 화면 디자인 |
 
 ### 업무 내용
 
