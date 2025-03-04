@@ -110,7 +110,7 @@ SKKUDING(스꾸딩)은 SKKU와 coding을 합친 이름으로, [Codedang(코드�
 | 5주차 | React 2 | NestJS (1) | AWS S3, Cloudfront, IAM | IA, Flow Chart | Wireframe, UT |
 | 6주차 |  REST API, GraphQL     | NestJS (2) | AWS ELB, ECR, ECS       | Wireframe | Design Guide |
 | 7주차 | Next.js   | Prisma     | Terraform               | 기능 명세서 | UX/UI 포트폴리오 |
-| 8주차 | Shancn UI           | GraphQL    | GitHub Actions          | QA | [실습] 코드당 예시 화면 디자인 |
+| 8주차 | Shadcn UI           | GraphQL    | GitHub Actions          | QA | [실습] 코드당 예시 화면 디자인 |
 
 ### 업무 내용
 
