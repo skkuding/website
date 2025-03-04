@@ -65,10 +65,11 @@ SKKUDING(스꾸딩)은 SKKU와 coding을 합친 이름으로, [Codedang(코드�
 👀 **프론트엔드** 팀은 코드당의 화면을 담당하고 있어요. 서버의 데이터와 사용자가 상호작용할 수 있도록 다리가 되어줘요!
 
 - 사용자가 편하게 코드당 서비스를 사용할 수 있도록 화면을 구현해요.
-- 정해진 기획과 디자인에 맞게 서비스에 필요한 기능들을 구현해요.
-- 백엔드 팀에서 구현한 데이터 구조에 맞춰 API를 연결하고 데이터를 화면에 보여줘요.
-- 사용자와 서버의 데이터를 알맞게 동기화하는 로직을 고민해요.
-- 사용하고 있는 기술은 React.js, Next.js, Typescript, Tailwind CSS, shadcn 등이 있어요.
+- 기획과 디자인에 맞게 서비스에 필요한 기능들을 구현해요.
+- 기획 / 디자인팀과 협력하여, 사용자 경험 개선을 함께 고민해요.
+- 백엔드 팀에서 구현한 데이터 구조에 맞춰 API를 연결하고 데이터를 화면에 동적으로 보여줘요.
+- 사용하고 있는 기술은 React, Next.js, TypeScript, Tailwind CSS  등이 있어요.
+- 현재 개발 트렌드에 맞는 다양한 기술들을 적용할 수 있어요.
 
 🧩 **백엔드** 팀은 코드당의 백그라운드 로직 개발을 맡고 있어요! 서비스의 핵심 기능을 완성하고 사용자 요청에 원활하게 응답할 수 있도록 지속적으로 성능을 개선해나가요.
 
@@ -103,13 +104,13 @@ SKKUDING(스꾸딩)은 SKKU와 coding을 합친 이름으로, [Codedang(코드�
 | 주차  | 프론트엔드        | 백엔드     | 인프라                  | 기획             |디자인             |
 | ----- | ----------------- | ---------- | ----------------------- | ------------- | -------------------------- |
 | 1주차 | HTML, CSS         | Network    | Node.js                 | 도메인 및 사용자의 이해 | UX/UI 개념 및 트렌드 |
-| 2주차 | JavaScript        | Node.js    | Express.js              | 웹 개발 프로세스의 이해 | Typography, Graphic Design |
+| 2주차 | JavaScript, DOM        | Node.js    | Express.js              | 웹 개발 프로세스의 이해 | Typography, Graphic Design |
 | 3주차 | TypeScript        | Express.js | Docker                  | User Research | Grid, Layout, Color |
-| 4주차 | React             | TypeScript | AWS EC2, Network        | 프로젝트 관리 방법론 | Icon, Component |
-| 5주차 | REST API, GraphQL | NestJS (1) | AWS S3, Cloudfront, IAM | IA, Flow Chart | Wireframe, UT |
-| 6주차 | Tailwind CSS      | NestJS (2) | AWS ELB, ECR, ECS       | Wireframe | Design Guide |
-| 7주차 | React Ecosystem   | Prisma     | Terraform               | 기능 명세서 | UX/UI 포트폴리오 |
-| 8주차 | Next.js           | GraphQL    | GitHub Actions          | QA | [실습] 코드당 예시 화면 디자인 |
+| 4주차 | React 1             | TypeScript | AWS EC2, Network        | 프로젝트 관리 방법론 | Icon, Component |
+| 5주차 | React 2 | NestJS (1) | AWS S3, Cloudfront, IAM | IA, Flow Chart | Wireframe, UT |
+| 6주차 |  REST API, GraphQL     | NestJS (2) | AWS ELB, ECR, ECS       | Wireframe | Design Guide |
+| 7주차 | Next.js   | Prisma     | Terraform               | 기능 명세서 | UX/UI 포트폴리오 |
+| 8주차 | Tailwind CSS / Git & Github           | GraphQL    | GitHub Actions          | QA | [실습] 코드당 예시 화면 디자인 |
 
 ### 업무 내용
 
