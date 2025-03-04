@@ -103,7 +103,7 @@ SKKUDING(스꾸딩)은 SKKU와 coding을 합친 이름으로, [Codedang(코드�
 | 주차  | 프론트엔드        | 백엔드     | 인프라                  | 기획             |디자인             |
 | ----- | ----------------- | ---------- | ----------------------- | ------------- | -------------------------- |
 | 1주차 | HTML, CSS         | Network    | Node.js                 | 도메인 및 사용자의 이해 | UX/UI 개념 및 트렌드 |
-| 2주차 | JavaScript        | Node.js    | Express.js              | 웹 개발 프로세스 이해 | Typograhpy, Graphic Design |
+| 2주차 | JavaScript        | Node.js    | Express.js              | 웹 개발 프로세스의 이해 | Typograhpy, Graphic Design |
 | 3주차 | TypeScript        | Express.js | Docker                  | User Research | Grid, Layout, Color |
 | 4주차 | React             | TypeScript | AWS EC2, Network        | 프로젝트 관리 방법론 | Icon, Components |
 | 5주차 | REST API, GraphQL | NestJS (1) | AWS S3, Cloudfront, IAM | IA, Flow Chart | Wireframe, UT |
