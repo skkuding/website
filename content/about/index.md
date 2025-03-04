@@ -68,7 +68,7 @@ SKKUDING(스꾸딩)은 SKKU와 coding을 합친 이름으로, [Codedang(코드�
 - 기획과 디자인에 맞게 서비스에 필요한 기능들을 구현해요.
 - 기획 / 디자인팀과 협력하여, 사용자 경험 개선을 함께 고민해요.
 - 백엔드 팀에서 구현한 데이터 구조에 맞춰 API를 연결하고 데이터를 화면에 동적으로 보여줘요.
-- 사용하고 있는 기술은 React, Next.js, TypeScript, Tailwind CSS  등이 있어요.
+- 사용하고 있는 기술은 React, Next.js, TypeScript, Tailwind CSS, Shadcn UI  등이 있어요.
 - 현재 개발 트렌드에 맞는 다양한 기술들을 적용할 수 있어요.
 
 🧩 **백엔드** 팀은 코드당의 백그라운드 로직 개발을 맡고 있어요! 서비스의 핵심 기능을 완성하고 사용자 요청에 원활하게 응답할 수 있도록 지속적으로 성능을 개선해나가요.
@@ -110,7 +110,7 @@ SKKUDING(스꾸딩)은 SKKU와 coding을 합친 이름으로, [Codedang(코드�
 | 5주차 | React 2 | NestJS (1) | AWS S3, Cloudfront, IAM | IA, Flow Chart | Wireframe, UT |
 | 6주차 |  REST API, GraphQL     | NestJS (2) | AWS ELB, ECR, ECS       | Wireframe | Design Guide |
 | 7주차 | Next.js   | Prisma     | Terraform               | 기능 명세서 | UX/UI 포트폴리오 |
-| 8주차 | Tailwind CSS / Git & Github           | GraphQL    | GitHub Actions          | QA | [실습] 코드당 예시 화면 디자인 |
+| 8주차 | Shancn UI           | GraphQL    | GitHub Actions          | QA | [실습] 코드당 예시 화면 디자인 |
 
 ### 업무 내용
 
