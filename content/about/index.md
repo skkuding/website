@@ -149,8 +149,7 @@ SKKUDING(스꾸딩)은 SKKU와 CODING을 합친 이름으로, [Codedang(코드�
 - Grafana 모니터링 기반 문제 상황 대응
 - GraphQL을 활용한 Admin API 개발
 - REST API 기반 Client API 개발
-- OpenTelementry를 통한 서버 성능 검증
-- 새로운 Judge Sandbox 개발 (Rust)
+- 채점 Sandbox 기능 유지 보수 및 개발 (C)
 - 코드 채점/실행 기능 개발 (Golang)
 
 **인프라**
