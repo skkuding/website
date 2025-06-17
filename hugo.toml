@@ -24,7 +24,7 @@ url = '/about/'
 [[menu.main]]
 identifier = "contact"
 name = "Contact"
-url = "https://skkuding.dev/contact"
+url = "https://pf.kakao.com/_UKraK"
 
 [deployment]
 [[deployment.targets]]

@@ -215,6 +215,6 @@ SKKUDING(스꾸딩)은 SKKU와 CODING을 합친 이름으로, [Codedang(코드�
 
 궁금한 내용은 카카오톡 채널 skkuding이나 DM으로 연락주세요!  
 
-[SKKUDING 카카오톡 채널](https://skkuding.dev/contact)
+[SKKUDING 카카오톡 채널](https://pf.kakao.com/_UKraK)
 
 [SKKUDING 인스타그램](https://www.instagram.com/skkuding/)
