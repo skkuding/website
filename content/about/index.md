@@ -84,7 +84,7 @@ SKKUDING(스꾸딩)은 SKKU와 CODING을 합친 이름으로, [Codedang(코드�
 
 🌱 **인프라(클라우드·데브옵스) 팀**은 시스템 전반의 아키텍처를 개선하며, 코드의 자동 테스트 및 배포를 위한 파이프라인을 구축해요. 또한, 모니터링 시스템을 구축하여 시스템의 안정성을 확보해요.
 
-- 클라우드 서버(AWS)에 프론트엔드와 백엔드, 데이터베이스, 스토리지 등 환경을 구축하고 운영해요.
+- 프론트엔드와 백엔드는 온프레미스 환경에서 쿠버네티스로 관리하고, 데이터베이스와 스토리지는 클라우드 서버(AWS)에서 운영해요.
 - 팀원의 코드를 기존 코드와 합칠 때 CI 파이프라인으로 코드에 이상이 있는지 자동으로 확인해요.
 - 누구나 버튼 클릭만으로 배포를 할 수 있도록 CD 파이프라인으로 자동화된 배포를 지원해요.
 - 서버 및 여러 환경 관리를 자동화하여 인력이 효율적으로 쓰일 수 있도록 도와줘요.
@@ -129,7 +129,7 @@ SKKUDING(스꾸딩)은 SKKU와 CODING을 합친 이름으로, [Codedang(코드�
 | 3주차 | TypeScript        | Express.js | Docker                  | User Research           | Grid, Layout, Color            |
 | 4주차 | React 1           | TypeScript | AWS EC2, Network        | 프로젝트 관리 방법론    | Icon, Component                |
 | 5주차 | React 2           | NestJS (1) | AWS S3, Cloudfront, IAM | IA, Flow Chart          | Wireframe, UT                  |
-| 6주차 | REST API, GraphQL | NestJS (2) | AWS ELB, ECR, ECS       | Wireframe               | Design Guide                   |
+| 6주차 | REST API, GraphQL | NestJS (2) | Kubernetes              | Wireframe               | Design Guide                   |
 | 7주차 | Next.js           | Prisma     | Terraform               | 기능 명세서             | UX/UI 포트폴리오               |
 | 8주차 | Shadcn UI         | GraphQL    | GitHub Actions          | QA                      | [실습] 코드당 예시 화면 디자인 |
 
@@ -170,7 +170,7 @@ SKKUDING(스꾸딩)은 SKKU와 CODING을 합친 이름으로, [Codedang(코드�
 
 **인프라(클라우드·데브옵스)**
 
-- 클라우드(AWS) 리소스 구축 및 운영
+- 온프레미스 및 클라우드(AWS) 리소스 구축 및 운영
 - 컨테이너(Docker) 운영 개선
 - 배포 자동화 구축 및 개선
 - Grafana 모니터링 구축 및 개선
