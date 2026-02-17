@@ -24,10 +24,9 @@ jobs:
         with:
           hugo-version: "latest"
           extended: true
-          withdeploy: true
 
       - name: Build
         run: hugo --minify
 
       - name: Deploy
-        run: hugo deploy
+        run: aws s3 sync public/ s3://skkuding.dev --delete
