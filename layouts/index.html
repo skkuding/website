@@ -1,0 +1,14 @@
+{{ define "main" }}
+
+{{ $about := .GetPage "/about" }}
+{{ with $about }}
+<article>
+  <header class="mb-14">
+    <h1 class="!my-0 pb-2.5">{{ .Title }}</h1>
+  </header>
+
+  <section>{{ .Content }}</section>
+</article>
+{{ end }}
+
+{{ end }}

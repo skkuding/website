@@ -18,13 +18,20 @@ bio = '성균관대학교 코드당 프로젝트 팀'
 
 [menu]
 [[menu.main]]
+identifier = 'blog'
+name = 'Blog'
+url = '/post/'
+weight = 1
+[[menu.main]]
 identifier = 'about'
 name = 'About'
 url = '/about/'
+weight = 2
 [[menu.main]]
 identifier = "contact"
 name = "Contact"
 url = "https://pf.kakao.com/_UKraK"
+weight = 3
 
 [deployment]
 [[deployment.targets]]
