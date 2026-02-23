@@ -37,3 +37,7 @@ weight = 3
 [[deployment.targets]]
 name = 'AWS S3'
 URL = 's3://skkuding.dev?region=ap-northeast-2'
+
+[services]
+  [services.googleAnalytics]
+    id = 'G-MEASUREMENT_ID'
