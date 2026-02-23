@@ -40,4 +40,4 @@ URL = 's3://skkuding.dev?region=ap-northeast-2'
 
 [services]
   [services.googleAnalytics]
-    id = 'G-MEASUREMENT_ID'
+    id = 'G-KMNKEL3V25'
