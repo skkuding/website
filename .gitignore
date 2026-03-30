@@ -15,3 +15,8 @@ hugo.linux
 
 # Mac OS
 .DS_Store
+
+### Terraform ###
+/infra/.terraform/
+/infra/*.tfstate
+/infra/*.tfstate.*
