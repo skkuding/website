@@ -9,3 +9,7 @@ output "cloudfront_domain_name" {
 output "deploy_role_arn" {
   value = aws_iam_role.deploy.arn
 }
+
+output "acm_certificate_arn" {
+  value = aws_acm_certificate.skkuding.arn
+}
