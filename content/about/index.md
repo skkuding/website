@@ -3,6 +3,8 @@ title = 'About SKKUDING'
 date = '2025-09-05'
 +++
 
+{{< figure src="2025년 1학기 OT.jpg" caption="2025년 1학기 OT.jpg" alt="2025년 1학기 OT.jpg" >}}
+
 SKKUDING(스꾸딩)은 SKKU와 CODING을 합친 이름으로, [Codedang(코드당) 웹사이트](https://codedang.com) 개발 프로젝트를 주도적으로 진행하는 프로젝트 팀이에요. 2020년 알고리즘 동아리인 NPC 소속 개발팀에서 처음 시작하여 2022년 1학기에 공식적으로 독립된 동아리로 분리되었어요.
 
 ### 스터디부터 프로젝트 참여까지, 스꾸딩에서 차근차근 성장해보세요!
